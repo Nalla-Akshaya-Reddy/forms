@@ -1,0 +1,30 @@
+body{
+    background-color:dimgrey;
+    background-image: url(bg12.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+form{
+    color: darkblue;
+    font-size: x-large;
+    box-sizing: border-box;
+    
+}
+legend{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:50px;
+    color:black;
+}
+fieldset{
+    margin:10px;
+    margin-right: 500px;
+    margin-left: 500px;
+    padding-top: 30px;
+    padding-left: 20px;
+    border: 5px double black;
+    text-align: center;
+
+}
+
+
